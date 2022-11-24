@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/Troxa17/storeapi/issues"
   },
-  "homepage": "https://github.com/Troxa17/storeapi#readme"
+  "homepage": "https://github.com/Troxa17/storeapi#readme",
+  "dependencies": {
+    "nodemon": "^2.0.20",
+    "sequelize": "^6.25.8"
+  }
 }
